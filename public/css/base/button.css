@@ -1,0 +1,22 @@
+.btn-outline-primary {
+    height: 36px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    outline: none;
+    color: #fff;
+    min-width: 80px;
+    cursor: pointer;
+    padding: 0 16px;
+}
+
+.btn-outline-primary {
+    background-color: rgb(155, 155, 232) !important;
+}
+
+.btn-outline-primary :hover {
+    background-color: rgb(155, 155, 232) !important;
+}
+
+.btn-outline-primary :focus {
+    background-color: rgb(155, 155, 232) !important;
+}

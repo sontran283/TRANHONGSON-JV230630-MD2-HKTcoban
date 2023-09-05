@@ -1,0 +1,15 @@
+.q-input {
+    height: 36px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    outline: none;
+    padding: 0 16px;
+}
+
+.q-input:hover {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.q-input:focus {
+    border-color: blue;
+}
